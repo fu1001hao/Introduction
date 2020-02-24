@@ -1,3 +1,3 @@
 # Introduction
 
-Hello, I am Hao Fu, a master student in NYU.
+Hello, I am Hao Fu, a Ph.D student in NYU. My research interest includes optimal control, machine learning security, and navigation.
